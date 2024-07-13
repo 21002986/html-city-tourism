@@ -1,5 +1,5 @@
 # html-city-tourism
-Ex-1
+#Ex-1
 create the website of the tourism sites of your desired city 
 Code:
 ```
@@ -79,5 +79,5 @@ Output:
 
 ![Screenshot 2024-07-13 104104](https://github.com/user-attachments/assets/d9469aab-fd0b-4af2-88cd-ae99c190146a)
 
-Result:
+#Result:
 Thus,Creating a html file to display the content in the above picture was executed successfully.
