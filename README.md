@@ -75,7 +75,7 @@ Code:
 </body>
 </html>
 ```
-Output:
+# Output:
 
 ![Screenshot 2024-07-13 104104](https://github.com/user-attachments/assets/d9469aab-fd0b-4af2-88cd-ae99c190146a)
 
