@@ -1,5 +1,7 @@
 # html-city-tourism
 create the website of the tourism sites of your desired city 
+code:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -71,6 +73,7 @@ create the website of the tourism sites of your desired city
 </table>
 </body>
 </html>
+```
 output:
 
 ![Screenshot 2024-07-13 104104](https://github.com/user-attachments/assets/d9469aab-fd0b-4af2-88cd-ae99c190146a)
