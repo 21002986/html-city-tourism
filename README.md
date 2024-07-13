@@ -78,5 +78,6 @@ Code:
 Output:
 
 ![Screenshot 2024-07-13 104104](https://github.com/user-attachments/assets/d9469aab-fd0b-4af2-88cd-ae99c190146a)
+
 Result:
 Thus,Creating a html file to display the content in the above picture was executed successfully.
