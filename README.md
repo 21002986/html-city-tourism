@@ -1104,5 +1104,6 @@ Code:
 ![Screenshot 2024-07-14 214052](https://github.com/user-attachments/assets/da67ef1c-89fc-4f91-be4e-f4dd5d3e0cad)
 
 ![Screenshot 2024-07-14 214646](https://github.com/user-attachments/assets/020673bc-213d-4d94-8ec7-af62f9cbb0e8)
-
+# Result:
+Thus,Creating a website for college was executed successfully.
 
