@@ -81,3 +81,6 @@ Code:
 
 # Result:
 Thus,Creating a html file to display the content in the above picture was executed successfully.
+
+# Ex-2
+Design a website for a College
